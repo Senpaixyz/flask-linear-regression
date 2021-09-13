@@ -2,7 +2,7 @@
 to install run: pip install -r requirements.txt
 
 
-![alt text](https://github.com/Senpaixyz/flask-linear-regression/capture.png?raw=true)
+![alt text](https://github.com/Senpaixyz/flask-linear-regression/images/capture.png?raw=true)
 
 
 ### Training Model
