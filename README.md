@@ -1,4 +1,4 @@
-# Flask Linear Regression
+# Flask Multiple Linear Regression
 to install run: pip install -r requirements.txt
 
 ### Training Model
