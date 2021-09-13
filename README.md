@@ -12,3 +12,6 @@ python app.py
 ### Deployed at heroku
 
 https://linear-regression-flask.herokuapp.com/
+
+
+Author: Jheno S Cerbito / BSCS-4
